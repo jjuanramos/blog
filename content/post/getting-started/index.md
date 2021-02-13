@@ -30,15 +30,12 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- Analytics
 
 categories:
 - Demo
-- 教程
 ---
 
 ## Overview
@@ -98,8 +95,3 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 [Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.

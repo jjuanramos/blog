@@ -20,7 +20,8 @@ bio: Building data products.
 interests:
 - Analytics
 - Software Engineering
-- Surfing
+- Cloud
+- Ops
 
 # Education to show in About widget
 education:
@@ -58,4 +59,6 @@ email: "jjuanramos91@gmail.com"
 highlight_name: false
 ---
 
-Hello! my name is Juan Ramos. I am a data analyst @ homyspace, helping to build the analytics infrastructure one dbt model at a time :ramen: 
+Hello! my name is Juan Ramos, I am a **data analyst @ homyspace**.
+
+Currently building the analytics infrastructure one dbt model at a time :ramen: :surfer: :dog:
