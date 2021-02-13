@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Analytics Engineer
-    company: Ebury
-    company_url: 'https://ebury.com/'
-    location: Remote
-    date_start: '2021-03-01'
-    date_end: ''
+  # - title: Analytics Engineer
+  #   company: Ebury
+  #   company_url: 'https://ebury.com/'
+  #   location: Remote
+  #   date_start: '2021-03-01'
+  #   date_end: ''
     # description: |2-
     #     Responsibilities include:
         
@@ -40,6 +40,6 @@ experience:
     company_url: 'https://www.homyspace.com/'
     location: Valencia
     date_start: '2019-10-01'
-    date_end: '2021-03-01'
+    # date_end: '2021-03-01'
     # description: Taught electronic engineering and researched semiconductor physics.
 ---
