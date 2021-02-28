@@ -6,12 +6,12 @@ title: Juan Ramos
 superuser: true
 
 # Role/position/tagline
-role: Data Analyst
+role: Analytics Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: homyspace
-  url: https://www.homyspace.com/
+- name: Ebury
+  url: https://ebury.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Building data products.
@@ -59,6 +59,6 @@ email: "jjuanramos91@gmail.com"
 highlight_name: false
 ---
 
-Hello! my name is Juan Ramos, I am a **data analyst @ homyspace**.
+Hello! my name is Juan Ramos, I work as an **analytics engineer @ Ebury**.
 
 Currently building the analytics infrastructure one dbt model at a time :ramen: :surfer: :dog:
