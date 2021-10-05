@@ -1,0 +1,41 @@
+body {
+    font-family: 'Space Mono', monospace;
+    margin: 0px;
+}
+
+h1 {
+    font-weight: normal;
+    margin: 0;
+    margin-bottom: 100px;
+}
+
+.page {
+    margin: 0 auto;
+    padding: 50px;
+    max-width: 90%;
+}
+
+.post {
+    margin: 0;
+}
+
+.post-title {
+    font-weight: normal;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: green;
+    font-size: 1.8em;
+}
+
+a:visited {
+    color: green;
+}
+
+.post-date {
+    margin-top: 5px;
+}
