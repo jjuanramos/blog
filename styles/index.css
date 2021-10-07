@@ -6,11 +6,11 @@ body {
 h1 {
     font-weight: normal;
     margin: 0;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 p {
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .page {
