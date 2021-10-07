@@ -1,12 +1,16 @@
 body {
     font-family: 'Space Mono', monospace;
-    margin: 0px;
+    margin: 0;
 }
 
 h1 {
     font-weight: normal;
     margin: 0;
     margin-bottom: 100px;
+}
+
+p {
+    font-family: sans-serif;
 }
 
 .page {
@@ -16,24 +20,43 @@ h1 {
 }
 
 .post {
-    margin: 0;
+    margin: 0 auto;
 }
 
-.post-title {
+.post-content {
+    margin: 0 auto;
+    max-width: 42em;
+}
+
+.page-link {
     font-weight: normal;
-    font-size: 1.5em;
     text-decoration: none;
     color: black;
 }
 
-a:hover {
+.page-link:hover {
     text-decoration: underline;
-    color: green;
-    font-size: 1.8em;
+    color: #31a196d8;
 }
 
-a:visited {
-    color: green;
+.page-link:visited {
+    color: #31a196d8;
+}
+
+.post-link {
+    font-size: 1.5rem;
+}
+
+.post-link:hover {
+    font-size: 1.8rem;
+}
+
+.title-link {
+    color: #31a196d8;
+}
+
+.title-link:hover {
+    font-size: 2.4rem;
 }
 
 .post-date {
