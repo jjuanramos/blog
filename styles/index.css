@@ -1,0 +1,95 @@
+body {
+    font-family: 'Space Mono', monospace;
+    margin: 0;
+}
+
+h1 {
+    font-weight: normal;
+    margin: 0;
+    margin-bottom: 50px;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+}
+
+.page {
+    margin: 0 auto;
+    padding: 50px;
+    max-width: 90%;
+}
+
+.post {
+    margin: 0 auto;
+}
+
+.post-content {
+    margin: 0 auto;
+    max-width: 42em;
+}
+
+.page-link {
+    font-weight: normal;
+    text-decoration: none;
+    color: black;
+}
+
+.page-link:hover {
+    text-decoration: underline;
+    color: #31a196d8;
+}
+
+.page-link:visited {
+    color: #31a196d8;
+}
+
+.post-link {
+    font-size: 1.5rem;
+}
+
+.post-link:hover {
+    font-size: 1.8rem;
+}
+
+.title-link {
+    color: #31a196d8;
+}
+
+.title-link:hover {
+    font-size: 2.4rem;
+}
+
+.inline-link {
+    color: #31a196d8;
+    text-decoration: underline;
+}
+
+.inline-link:hover {
+    font-size: 1.2rem;
+}
+
+.post-date {
+    margin-top: 5px;
+}
+
+.fa {
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #31a196d8;
+}
+
+.fa:hover {
+    font-size: 3.6rem;
+}
+
+.icons {
+    margin: 0 auto;
+    /* padding-top: 5em; */
+    max-width: 21rem;
+}
+
+.icon {
+    display: inline-block;
+}
