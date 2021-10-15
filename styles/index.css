@@ -3,9 +3,12 @@ body {
     margin: 0;
 }
 
-h1 {
+h1,h2 {
     font-weight: normal;
     margin: 0;
+}
+
+header {
     margin-bottom: 50px;
 }
 
@@ -16,17 +19,11 @@ p {
 .page {
     margin: 0 auto;
     padding: 50px;
-    max-width: 96%;
-}
-
-.post {
-    margin: 0 auto;
+    max-width: 50rem;
 }
 
 .post-content {
-    margin: 0 auto;
     padding-top: 2rem;
-    max-width: 50rem;
 }
 
 .page-link {
