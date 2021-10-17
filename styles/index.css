@@ -1,29 +1,36 @@
-body {
-    font-family: 'Space Mono', monospace;
-    margin: 0;
-}
-
-h1,h2 {
-    font-weight: normal;
-    margin: 0;
+html {
+    max-width: 70ch;
+    padding: 1.5rem;
+    margin: auto;
+    font-size: 1.5rem;
 }
 
 header {
-    margin-bottom: 50px;
+    margin-bottom: 3rem;
+}
+
+body {
+    font-family: 'Space Mono', monospace;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
 }
 
 p {
     font-family: 'Poppins', sans-serif;
 }
 
-.page {
-    margin: 0 auto;
-    padding: 50px;
-    max-width: 50rem;
+p, ul, ol {
+    color: #1d1d1d;
 }
 
-.post-content {
-    padding-top: 2rem;
+.post-date {
+    margin: 0;
+    padding: 0;
+    display: block;
 }
 
 .page-link {
@@ -66,10 +73,6 @@ p {
     font-size: 1.2rem;
 }
 
-.post-date {
-    margin-top: 5px;
-}
-
 .fa {
     padding: 20px;
     text-align: center;
@@ -83,7 +86,6 @@ p {
 
 .icons {
     margin: 0 auto;
-    /* padding-top: 5em; */
     max-width: 21rem;
 }
 
