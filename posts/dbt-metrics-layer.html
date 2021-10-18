@@ -7,11 +7,11 @@
     </head>
     <body>
         <header>
-            <h1><a class="page-link title-link" href="/">juanramos.me &larr;</a><br>dbt & the metrics layer</h1>
+            <h1><a class="page-link title-link" href="/">juanramos.me &larr;</a><br>dbt, the metrics layer & the future of data</h1>
         </header>
         <div class="page">
                 <p>
-                    Drew Banin (dbt's CPO) raised
+                    Drew Banin (dbt's CPO) recently raised
                     an <a href="https://github.com/dbt-labs/dbt-core/issues/4071" target="_blank" class="page-link inline-link">issue on Github</a>
                     where he explains why it makes sense for dbt to be able to define metrics and shares 
                     what the first version of this could look like.
@@ -22,22 +22,35 @@
                     to understand it.
                 </p>
                 <p>
-                    I believe this is a super interesting move for dbt to take.
+                   Rather, I'll give you my thoughts: this is a super interesting move for dbt to take.
                 </p>
                 <p>    
                     As <a href="https://benn.substack.com/p/datas-horizontal-pivot" target="_blank" class="page-link inline-link">Benn wrote</a>,
                     the modern data stack has consisted on tools focusing on horizontal areas of the data process.
                     dbt has positioned itself in the transformation layer from the very beginning,
-                    and it has been the stronger player on that area for a while now.
+                    and it has been the strongest player on that area for a while now.
                 </p>
                 <p>
                     However, dbt is not <i>just</i> a transformation tool.
-                    In fact, I believe the moment they released the documentation capabilities of dbt + dbt docs,
-                    they implicitly recognized that themselves.
                 </p>
                 <p>
-                    dbt has been used for a while by tools such as <a href="https://www.lightdash.com/" target="_blank" class="page-link inline-link">Lightdash</a>
-                    as the foundation to build their product on. This makes sense, as dbt 
+                    First it was docs, then the “meta” field and then exposures, dbt artifacts and much more.
+                    dbt has been working for a while on being much more than a tool to version control your SQL.
+                </p>
+                <p>
+                    And now dbt is explicitly stating its purpose of moving towards becoming <a href="https://benn.substack.com/p/the-data-os" target="_blank" class="page-link inline-link">the data OS</a>,
+                    starting by moving vertically in the modern data stack and trying to set itself
+                    as the owner of the metrics layer.
+                </p>
+                <p>
+                    An open source company such as dbt with the ambition to own the entire business logic of a company excites me a lot,
+                    primarily because of what it entails to analytics people: lots of tools are being built on top of dbt,
+                    and I’m pretty sure that after this statement much more will be born.
+                </p>
+                <p>
+                    Will we ever see a world where a data analyst owns the business logic that empowers the backend of a company,
+                    be it through dbt or a dbt-based tool?
+                    I, for one, can't wait to know.
                 </p>
     </body>
 </html>
