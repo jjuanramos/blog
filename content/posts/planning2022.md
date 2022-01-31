@@ -23,8 +23,8 @@ So, for 2022 I would like to:
 - Start and finish [Writing a Compiler in Go](https://compilerbook.com/)
 - Finish [Designing Data-Intensive Applications](https://dataintensive.net/)
 - Create an ACID compliant database in Go
-- Explore an implementation of differential dataflow. _Maybe rewrite a simpler Dida in Go?_.
-- Still got to think about how I should learn more about data systems. Maybe implementing other toy system is too much and don't want to put too much in my plate. I will definitely try to understand how [conduit](https://github.com/ConduitIO/conduit) works under the hood.
+- Explore an implementation of differential dataflow. _Maybe rewrite a simpler Dida in Go?_
+- Still got to think about how I should learn more about data systems. Maybe implementing other toy system is too much and don't want to put too much in my plate. I will definitely try to understand how [conduit](https://github.com/ConduitIO/conduit) works under the hood
 
 For the next 6 months I will focus on the first three points.
 We'll see how it goes!!
