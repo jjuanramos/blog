@@ -17,7 +17,7 @@ There is some stuff I'm interested in:
 
 And above all, this year I would love to gain some basic knowledge of [CS fundamentals](https://teachyourselfcs.com/) - except I'm not reading most of these books (atleast for now 🙃).
 
-Being self-taught is hard enough as it is, and putting myself in front of a huge theory book is just going to make me run away from learning anything at all. Instead, I took a series of books that implement stuff and will go along with those. My brain works better with the kind of philosophy the folks at [fast.ai](https://www.fast.ai/) follow: Build whatever first and, once you do, peek under to see how it works.
+Being self-taught is hard enough as it is, and putting myself in front of a huge theory book is just going to make me run away from learning anything at all. Instead, I took a series of books that implement stuff and will go along with those. My brain works better with the kind of philosophy the folks at [fast.ai](https://www.fast.ai/) follow: **Build whatever first and, once you do, peek under to see how it works.**
 
 So, for 2022 I would like to:
 - Learn about Go by going over [Go by Example](https://gobyexample.com/).
