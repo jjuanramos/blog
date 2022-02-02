@@ -19,7 +19,7 @@ Nevertheless, I studied Business in college 🙃. This means that I lack the fou
 
 Thus, this year **I want to improve my CS fundamentals** in order to be able to be more comfortable playing around with Roc, Dida and other cool projects.
 
-To do so, I have taken a look at [teachyourselfcs](https://teachyourselfcs.com/) several times - I love the idea. But being self-taught is hard enough as it is, and putting myself in front of a huge theory book is just going to make me run away from learning anything at all.
+To do so, I have taken a look at [teachyourselfcs](https://teachyourselfcs.com/) several times - I _love_ the idea. But being self-taught is hard enough as it is, and putting myself in front of a huge theory book is just going to make me run away from learning anything at all.
 
 Instead, I took a series of books that implement stuff and will go along with those. My brain works better with the kind of philosophy the folks at [fast.ai](https://www.fast.ai/) follow: **Build whatever first and, once you do, peek under to see how it works.**
 
