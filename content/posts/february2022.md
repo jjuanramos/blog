@@ -1,6 +1,6 @@
 ---
 title: "February 2022 update"
-date: 2022-02-23T00:00:00+01:00
+date: 2022-02-26T00:00:00+01:00
 draft: false
 ---
 
